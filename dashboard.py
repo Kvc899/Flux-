@@ -1,3 +1,4 @@
+#Source Code Below ⬇️ 
 import rumps
 import psutil
 from AppKit import NSAttributedString, NSForegroundColorAttributeName, NSColor
@@ -92,3 +93,4 @@ class Flux(rumps.App):
 
 if __name__ == "__main__":
     Flux().run()
+    #❤️hi👋 
